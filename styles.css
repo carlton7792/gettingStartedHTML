@@ -1,7 +1,14 @@
-#static{
-    background-color: red;
+
+"static"
+a:link {
+  color: rgb(235, 22, 185);
 }
 
-#relative{
-    background-color: blue;
+/* visited link */
+a:visited {
+  color: rgb(11, 189, 11);
+}
+/* selected link */
+a:active {
+  color: rgb(13, 82, 146);
 }
